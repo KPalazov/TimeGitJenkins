@@ -53,7 +53,8 @@ public class Time
 //		}
 		
 		int totalSeconds = getTotalSeconds("10:10:10");
-		System.out.println("Total Seconds = "+totalSeconds);
+		//System.out.println("Total Seconds = "+totalSeconds);
+		System.out.println("**GH Total Seconds = " +totalSeconds);
 		
 	}
 
